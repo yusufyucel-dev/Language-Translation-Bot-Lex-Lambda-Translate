@@ -7,7 +7,7 @@ This project demonstrates the creation of a fully functional serverless chatbot 
 The bot operates on a crucial Code Hook architecture, where the Lex NLP engine temporarily delegates fulfillment to a custom Lambda function.
 
 Architecture Diagram:
-![Architecture Diagram](diagram.png)
+![Architecture Diagram](Lex-Screenshots/diagram.png)
 
  AWS Services Utilized
 
@@ -45,13 +45,13 @@ This project required overcoming several non-trivial integration hurdles specifi
 
 
     Lex Intent Screenshot:
-![Sample Utterances](sampleutt.png)
-![Slots](slots.png)
+![Sample Utterances](Lex-Screenshots/sampleutt.png)
+![Slots](Lex-Screenshots/slots.png)
 
     Lambda Code Hook Integration:
 
-![Fullfillment](fullfillment.png)
+![Fullfillment](Lex-Screenshots/fullfillment.png)
 
     Working Proof :
 
-  ![Test](Test.png)
+  ![Test](Lex-Screenshots/Test.png)
